@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm ZinMinHtun</h1>
 <h3 align="center">Web Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zinminhtun-de" alt="zinminhtun-de" /></a> </p>
-
 - 🔭 I’m currently working on [ZaySaing](ZaySaing)
 
 - 🌱 I’m currently learning **Vue,Go,python**
