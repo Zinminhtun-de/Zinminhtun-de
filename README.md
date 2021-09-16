@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://zinminhtun-portfolio-blog.herokuapp.com/](https://zinminhtun-portfolio-blog.herokuapp.com/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zinminhtun-de&show_icons=true&theme=tokyonight)
 
 
 <h3 align="left">Connect with me:</h3>
