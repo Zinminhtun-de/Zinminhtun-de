@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm ZinMinHtun</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🔭 I’m currently working on [ZaySaing](ZaySaing)
+- 🔭 I’m currently working on [ColorCircles](ColorCircles)
 
-- 🌱 I’m currently learning **Vue,Go,python**
+- 🌱 I’m currently learning **Advanced MERN fullStack**
 
 - 👨‍💻 All of my projects are available at [https://zinminhtun-portfolio-blog.herokuapp.com/](https://zinminhtun-portfolio-blog.herokuapp.com/)
 
 - 📝 I regularly write articles on [https://zinminhtun-portfolio-blog.herokuapp.com/](https://zinminhtun-portfolio-blog.herokuapp.com/)
 
-- 💬 Ask me about **React,Php,Laravel,Ruby**
+- 💬 Ask me about **React,Tailwindcss,MUI,Php,Laravel,Ruby**
 
 - 📫 How to reach me **zinminhtunok591997@gmail.com**
 
