@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React,Tailwindcss,MUI,Php,Laravel,Ruby**
 
-- 📫 How to reach me **zinminhtunok591997@gmail.com**
+- 📫 How to reach me **zinminhtun.dev@proton.me**
 
 - 📄 Know about my experiences [https://zinminhtun-portfolio-blog.herokuapp.com/](https://zinminhtun-portfolio-blog.herokuapp.com/)
 
