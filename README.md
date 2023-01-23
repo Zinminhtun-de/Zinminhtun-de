@@ -2,11 +2,10 @@
 <h1 align="center">Hi 👋, I'm ZinMinHtun</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🔭 I’m currently working on [ColorCircles](ColorCircles) && [Compass](https://www.facebook.com/search/top?q=compass)
+- 🔭 I’m currently working on [CircleX](CircleX) && [Compass](https://www.facebook.com/search/top?q=compass)
 
 - 🌱 I’m currently learning **Advanced MERN fullStack**
 
-- 👨‍💻 All of my projects are available at [https://zinminhtun-portfolio-blog.herokuapp.com/](https://zinminhtun-portfolio-blog.herokuapp.com/)
 
 
 - 💬 Ask me about **React,Tailwindcss,MUI,Php,Laravel,Ruby**
