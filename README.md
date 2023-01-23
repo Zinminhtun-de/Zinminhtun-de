@@ -8,13 +8,11 @@
 
 - 👨‍💻 All of my projects are available at [https://zinminhtun-portfolio-blog.herokuapp.com/](https://zinminhtun-portfolio-blog.herokuapp.com/)
 
-- 📝 I regularly write articles on [https://zinminhtun-portfolio-blog.herokuapp.com/](https://zinminhtun-portfolio-blog.herokuapp.com/)
 
 - 💬 Ask me about **React,Tailwindcss,MUI,Php,Laravel,Ruby**
 
 - 📫 How to reach me **zinminhtun.dev@proton.me**
 
-- 📄 Know about my experiences [https://zinminhtun-portfolio-blog.herokuapp.com/](https://zinminhtun-portfolio-blog.herokuapp.com/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zinminhtun-de&show_icons=true&theme=tokyonight)
 
