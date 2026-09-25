@@ -3,11 +3,7 @@
 <h3 align="center">Software Engineer  (React-Native , MERN,PERN)</h3>
 
 - 🔭 I’m currently working on [CircleX](CircleX) , [Compass](https://www.facebook.com/search/top?q=compass) & [Anbuchi](Anbuchi)
-
-- 🌱 I’m currently learning **Advanced MERN fullStack**
-
-
-
+  
 - 💬 Ask me about **React,Tailwindcss,MUI,Php,Laravel,Ruby,Typescript**
 
 - 📫 How to reach me **zinminhtun.dev@proton.me**
